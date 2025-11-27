@@ -35,3 +35,6 @@ Notes:
 - Sessions store temporary user data. Clear sessions after submission.
 - Enhance security by validating and sanitizing all inputs.
 - Expand form steps as needed by adding new HTML and PHP handlers.
+
+- Contact:
+For questions, improvements contact thakurr10911@gmail.com.
